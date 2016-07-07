@@ -7,7 +7,9 @@
 //
 
 #import <Foundation/Foundation.h>
+#import "RCTBridgeModule.h"
 
-@interface RNDocumentInteractionController : NSObject
+@interface RNDocumentInteractionController : NSObject <RCTBridgeModule>
 
 @end
+

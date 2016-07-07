@@ -1,0 +1,17 @@
+{
+  "name": "react-native-document-interaction-controller",
+  "version": "1.0.3",
+  "description": "React Native NativeModules wrapper for UIDocumentInteractionController on iOS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Aaron Greenwald",
+    "email": "aarong@wix.com"
+  },
+  "license": "ISC",
+  "peerDependencies": {
+    "react-native": "^0.25.0"
+  }
+}
